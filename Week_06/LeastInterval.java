@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 /**
- * @author: zhaopc@tuya.com
+ * @author: zhaopc
  * @date: 2020-06-28 22:39
  * @description
  */

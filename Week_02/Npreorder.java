@@ -3,7 +3,7 @@ import com.sun.tools.jdi.IntegerValueImpl;
 import java.util.*;
 
 /**
- * @author: zhaopc@tuya.com
+ * @author: zhaopc
  * @date: 2020-05-30 21:00
  * @description N叉树前序遍历
  */

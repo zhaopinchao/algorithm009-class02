@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 /**
- * @author: zhaopc@tuya.com
+ * @author: zhaopc
  * @date: 2020-06-14 17:58
  * @description 分发饼干
  */

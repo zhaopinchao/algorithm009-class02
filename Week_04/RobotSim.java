@@ -1,7 +1,7 @@
 import java.util.*;
 
 /**
- * @author: zhaopc@tuya.com
+ * @author: zhaopc
  * @date: 2020-06-14 18:21
  * @description 模拟行走机器人
  */

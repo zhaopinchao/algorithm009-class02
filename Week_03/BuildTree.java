@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author: zhaopc@tuya.com
+ * @author: zhaopc
  * @date: 2020-06-07 22:12
  * @description
  */
