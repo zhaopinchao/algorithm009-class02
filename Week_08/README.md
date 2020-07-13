@@ -119,7 +119,7 @@ public int[] sort(int[] array) {
 }
 ```
 
-### 归并排序
+#### 归并排序
 
 ```
 public void mergeSort(int[] array, int left, int right) {
